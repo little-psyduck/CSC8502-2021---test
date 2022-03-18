@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header File">
+      <UniqueIdentifier>{a2ad370c-bf74-480b-a8e3-661e1b03d0b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source File">
+      <UniqueIdentifier>{ab6a8681-044e-47c6-8bb2-e50d15fff078}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Tutorial13.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.cpp">
+      <Filter>Source File</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Renderer.h">
+      <Filter>Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Shaders\reflectVertex.glsl" />
+    <None Include="..\Shaders\reflectFragment.glsl" />
+    <None Include="..\Shaders\skyboxVertex.glsl" />
+    <None Include="..\Shaders\skyboxFragment.glsl" />
+  </ItemGroup>
+</Project>

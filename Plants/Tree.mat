@@ -1,0 +1,14 @@
+MeshMat
+1
+2
+2
+M_Poplar_leaves
+2
+Diffuse:../Plants/T_Poplar_leaves_BC.jpg
+Bump:../Plants/T_Poplar_leaves_N.jpg
+Trunk_05
+2
+Diffuse:../Plants/T_Poplar_trunk_05_BC.jpg
+Bump:../Plants/T_Poplar_trunk_05_N.jpg
+0
+1

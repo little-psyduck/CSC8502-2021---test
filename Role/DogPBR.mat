@@ -1,0 +1,12 @@
+MeshMat
+1
+1
+3
+PBR
+3
+Diffuse:../Role/Albedo.png
+Bump:../Role/Normal.png
+Metallic:../Role/MS.png
+0
+0
+0
